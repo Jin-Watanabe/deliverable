@@ -1,0 +1,2 @@
+didcordID_A name_A
+discordID_B name_B
