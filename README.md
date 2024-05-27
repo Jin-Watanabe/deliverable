@@ -4,8 +4,8 @@
 
 ## ファイル構造
 
-shift/
-├── source/
+shift/　\\
+├── source/ \\
 │ ├── shift_for_excel.py
 │ ├── name.txt
 │ ├── recruitment_status.txt
