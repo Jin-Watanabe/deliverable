@@ -4,17 +4,17 @@
 
 ## ファイル構造
 
-shift/　\\
-├── source/ \\
-│ ├── shift_for_excel.py
-│ ├── name.txt
-│ ├── recruitment_status.txt
-│ ├── last_reset.txt
-│ ├── message_id.txt
-│ ├── shift_schedule.xlsx
-│ └── 曜日.jpeg
-├── shift_確認用.xlsx
-└── run_shift.bat
+shift/  
+├── source/  
+│ ├── shift_for_excel.py  
+│ ├── name.txt  
+│ ├── recruitment_status.txt  
+│ ├── last_reset.txt  
+│ ├── message_id.txt  
+│ ├── shift_schedule.xlsx  
+│ └── 曜日.jpeg  
+├── shift_確認用.xlsx  
+└── run_shift.bat  
 
 
 - **shift_for_excel.py**: Botのメインプログラムです。基本的にいじらないでください。
